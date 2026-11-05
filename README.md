@@ -7,8 +7,8 @@ Dockerized and deployed on Render.
 Seee Here What I build --  :)
 
 
-**Live URL:** [https://MY-APP.onrender.com  ](https://heart-disease-api-53hv.onrender.com/)
-**Swagger UI:** [https://MY-APP.onrender.com/docs](https://heart-disease-api-53hv.onrender.com/docs) 
+**Live URL:** -  (https://heart-disease-api-53hv.onrender.com/)
+**Swagger UI:** - (https://heart-disease-api-53hv.onrender.com/docs) 
 
 ## Project structure
 ```
